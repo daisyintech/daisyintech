@@ -1,7 +1,7 @@
-👋 Hi, I’m Daisy
-👀 I’m interested in building a simple project to get back into coding
-🌱 I’m currently learning Python, React
-💞️ I’m looking to collaborate on [i'll have to think about this one 🤔]
+👋 Hi, I’m Daisy<br><br>
+👀 I’m interested in building a simple project to get back into coding<br><br>
+🌱 I’m currently learning Python, React<br><br>
+💞️ I’m looking to collaborate on [i'll have to think about this one 🤔]<br><br>
 📫 How to reach me: 
 
 <!---
